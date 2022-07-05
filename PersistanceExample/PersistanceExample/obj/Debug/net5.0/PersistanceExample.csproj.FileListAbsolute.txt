@@ -1,0 +1,12 @@
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\bin\Debug\net5.0\PersistanceExample.deps.json
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\bin\Debug\net5.0\PersistanceExample.dll
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\bin\Debug\net5.0\ref\PersistanceExample.dll
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\bin\Debug\net5.0\PersistanceExample.pdb
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\obj\Debug\net5.0\PersistanceExample.csproj.AssemblyReference.cache
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\obj\Debug\net5.0\PersistanceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\obj\Debug\net5.0\PersistanceExample.AssemblyInfoInputs.cache
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\obj\Debug\net5.0\PersistanceExample.AssemblyInfo.cs
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\obj\Debug\net5.0\PersistanceExample.csproj.CoreCompileInputs.cache
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\obj\Debug\net5.0\PersistanceExample.dll
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\obj\Debug\net5.0\ref\PersistanceExample.dll
+C:\Users\320020018\source\repos\PersistanceExample\PersistanceExample\obj\Debug\net5.0\PersistanceExample.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ClientAppp/1.0.0": {
+        "dependencies": {
+          "PersistanceExample": "1.0.0"
+        },
+        "runtime": {
+          "ClientAppp.dll": {}
+        }
+      },
+      "PersistanceExample/1.0.0": {
+        "runtime": {
+          "PersistanceExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClientAppp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersistanceExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
